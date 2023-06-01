@@ -1,0 +1,62 @@
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\Config.ini
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.exe.config
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.exe
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.pdb
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.dll
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.dll
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\System.Drawing.Common.dll
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.pdb
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.pdb
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll.config
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.xml
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.AssemblyReference.cache
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CoreCompileInputs.cache
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CopyComplete
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.exe
+C:\Users\I0608892\Documents\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.pdb
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\Config.ini
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.exe.config
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.exe
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Controller.pdb
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.dll
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.dll
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\System.Drawing.Common.dll
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.pdb
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.pdb
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll.config
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.xml
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CopyComplete
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.exe
+C:\Users\Jorge\Desktop\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.pdb
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\Config.ini
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PyT - Formulario 1357.exe.config
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PyT - Formulario 1357.exe
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PyT - Formulario 1357.pdb
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.dll
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.dll
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\System.Drawing.Common.dll
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357Model.pdb
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.pdb
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\PytF1357View.dll.config
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\SpreadsheetLight.xml
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.AssemblyReference.cache
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CoreCompileInputs.cache
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PytF1357Controller.csproj.CopyComplete
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PyT - Formulario 1357.exe
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\obj\Debug\PyT - Formulario 1357.pdb
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\Documentación\index.html
+C:\Proyectos\PYT - TXT 1352\Version 2.0 [C#]\PytF1357Controller\bin\Debug\Documentación\style.css

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mukta:wght@200;400&family=Nunito+Sans:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mukta', sans-serif;
+}
+
+h1, h2, h3{
+    font-family: 'Lato', sans-serif;
+    margin:0.5rem;
+}
+
+p{
+    text-align: justify;
+    margin:0.5rem;
+}
+
+div{
+    margin:0.5rem;
+    padding: 0.5rem;
+}
